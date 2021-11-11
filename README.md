@@ -2,6 +2,8 @@
 Random Collatz-Conjecture (3n+1) script logging each sequence in a given interval of integers. 
 
 ## How to use the script
+Preferably executed with node.js, ``node 3NPlus1.js`` in terminal.
+
 In `3NPlus1.js` the interval of numbers to calculate is defined on line 5.
 
 Changing the arguments on line 5 to other integers will change the interval of numbers to calculate.
