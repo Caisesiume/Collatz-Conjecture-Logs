@@ -88,7 +88,7 @@ async function startCount(startFrom, upperLimit) {
 }
 console.log(`--------------- TOTAL STATS -------------`);
 console.log(`Highest counted integer: ${stats.highest}`);
-console.log(`Highest integer (${stats.highest}) found in: ${stats.highestIn}`);
+console.log(`Highest integer (${stats.highest}) found in: #${stats.highestIn}`);
 console.log(`----------------------------------------------`);
 console.log(`Number ${stats.longestAt} had the longest sequences of ${stats.longest} nodes`);
 console.log(`----------------------------------------------`);
