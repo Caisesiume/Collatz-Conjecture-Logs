@@ -1,5 +1,5 @@
-# Random-Collatz-Conjecture
-Random Collatz-Conjecture (3n+1) script logging each sequence in a given interval of integers. 
+# Collatz-Conjecture
+Collatz-Conjecture (3n+1) script logging each sequence in a given interval of integers. 
 
 ## How to use
 Preferably executed with node.js, ``node 3NPlus1.js`` in terminal.
