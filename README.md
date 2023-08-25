@@ -1,15 +1,17 @@
-<h1> <center>Collatz-Conjecture (3n+1)</center> </h1>
-This Collatz-Conjecture (3n+1) algorithm prints each calculated sequence in a given interval of integers.
+<h1 align="center"> Collatz-Conjecture (3n+1) </h1>
+<p align="center">This Collatz-Conjecture (3n+1) algorithm prints each calculated sequence in a given interval of integers. </p>
 
 
 <br>
-The Collatz-Conjecture is a conjecture in mathematics that concerns a sequence defined as follows: 
+<p align="center"> The Collatz-Conjecture is a conjecture in mathematics that concerns a sequence defined as follows: </p> 
 
 1. Start with any positive integer n.
 2. Then each term is obtained from the previous term. If the previous term is even, the next term is half of the previous term. If the previous term is odd, the next term is x3 the previous term, plus 1.
+<div align="center">
+    <img src="assets/collatz.png" alt="The Collatz-Conjecture Expression" width="400px"/>
+</div>
 
-<img src="assets/collatz.png" alt="The Collatz-Conjecture Expression" width="400px" style="display:block; margin-left: auto; margin-right: auto; width: 50%;"/>
-The conjecture is that no matter what value of n, the sequence will always reach 1 at some point.
+<p align="center"> The conjecture is that no matter what value of n, the sequence will always reach 1 at some point. </p>
 
 
 ## What does this program do?
