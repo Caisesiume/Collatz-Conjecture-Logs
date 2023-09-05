@@ -2,7 +2,7 @@
     /* 3n + 1 algorithm by @Caisesiume
      * startCount(startingNumber, LastTestNumber)
      */
-    const stats = await startCount(1, 50000);
+    const stats = await startCount(1, 50);
 
     async function resetN(start, numbers) {
         console.log(`______ Start nr ${start} ______`);
